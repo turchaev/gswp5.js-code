@@ -1,7 +1,7 @@
 var img;
 
 function preload() {
-  img = loadImage('clouds.png');
+  img = loadImage('../media/clouds.png');
 }
 
 function setup() {

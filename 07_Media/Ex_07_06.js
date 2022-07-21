@@ -1,7 +1,7 @@
 var img;
 
 function preload() {
-  img = loadImage("network.svg");
+  img = loadImage("../media/network.svg");
 }
 
 function setup() {
