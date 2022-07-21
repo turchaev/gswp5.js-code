@@ -1,7 +1,7 @@
 var font;
 
 function preload() {
-  font = loadFont("SourceCodePro-Regular.ttf");
+  font = loadFont("../media/SourceCodePro-Regular.ttf");
 }
 
 function setup() {
